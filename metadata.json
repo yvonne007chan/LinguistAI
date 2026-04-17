@@ -1,0 +1,6 @@
+{
+  "name": "LinguistAI - 顶尖AI英语外教",
+  "description": "专为非英语母语者设计的AI英语外教与语料分析引擎，提供地道口语对练、实时语法纠错与地道表达润色。",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
